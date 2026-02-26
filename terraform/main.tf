@@ -11,6 +11,14 @@ terraform {
       version = "~> 2.24"
     }
   }
+
+  backend "s3" {
+    bucket         = "fintech-terraform-state-352392546520"
+    key            = "fintech/terraform.tfstate"
+    region         = "eu-central-1"
+    encrypt        = true
+    dynamodb_table = "terraform-state-locks"
+  }
 }
 
 provider "aws" {
