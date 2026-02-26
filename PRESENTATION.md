@@ -535,9 +535,9 @@ gh pr merge
 - **AWS** за облачную платформу
 
 ### Контакты:
-📧 **Email:** [ваш email]  
+📧 **Email:** neuhemaksim@gmail.com  
 💼 **GitHub:** github.com/yourusername/dyplom-tms-neuhen  
-💬 **Telegram:** [@yourusername]
+💬 **Telegram:** @junghans57
 
 ### Ресурсы проекта:
 📂 **Репозиторий:** github.com/yourusername/dyplom-tms-neuhen  
